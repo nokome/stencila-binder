@@ -1,0 +1,1 @@
+FROM stencila/base-r@sha256:15454c4482d8bbf4c92f1c22dd7692c0f0e462c78b05767f03d3aabc789bcb73
