@@ -1,1 +1,1 @@
-FROM stencila/base-r@sha256:15454c4482d8bbf4c92f1c22dd7692c0f0e462c78b05767f03d3aabc789bcb73
+FROM stencila/base-py-binder@sha256:9392d5592546b4281f175070c57e8e5ba6a8b6b9dd479a6c97d055bacea631b8
