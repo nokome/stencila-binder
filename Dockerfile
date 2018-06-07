@@ -1,3 +1,2 @@
-FROM stencila/base-py-binder@sha256:9392d5592546b4281f175070c57e8e5ba6a8b6b9dd479a6c97d055bacea631b8
+FROM stencila/base-py-binder@sha256:55e0f59aca9589487ed08f95f49e831b92fe60cffe0a9e00adf96dee16a7b990
 
-CMD ["bash", "cmd.sh"]
